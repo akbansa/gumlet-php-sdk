@@ -6,19 +6,19 @@
 Run the following command to install the package and automatically add the dependency to your composer.json file:
 
 ```bash
-composer require "gumlet/gumlet-php-sdk:1.0.0"
+composer require "akbansa/gumlet-php-sdk:1.0.0"
 ```
 
 Or add it to the composer.json file manually as given below:
 
 ```json
 "require": {
-    "gumlet/gumlet-php-sdk": "1.0.0"
+    "akbansa/gumlet-php-sdk": "1.0.0"
 }
 ```
 
 You can also view the package at:
-https://packagist.org/packages/gumlet/gumlet-php-sdk#1.0.0
+https://packagist.org/packages/akbansa/gumlet-php-sdk#1.0.0
 
 ## Test the SDK
 

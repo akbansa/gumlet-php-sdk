@@ -1,5 +1,5 @@
 {
-    "name": "gumlet/gumlet-php-sdk",
+    "name": "akbansa/gumlet-php-sdk",
     "description": "Use Gumlet SDK to upload videos to Gumlet, manage channel & playlist, create image source, and get analytics",
     "type": "library",
     "keywords": [
